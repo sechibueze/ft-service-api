@@ -1,0 +1,13 @@
+{
+  "name": "ft-service-api",
+  "version": "1.0.0",
+  "description": "Service Unit Portal for Faith Tabernacle",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Samuel Chibueze <sechibueze@gmail.com>",
+  "license": "MIT"
+}
